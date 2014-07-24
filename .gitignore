@@ -1,2 +1,5 @@
-.ipynb_checkpoints/*
-.pkl
+.ipynb_checkpoints/
+*.pkl
+inputs/
+*.out
+*.yaml
